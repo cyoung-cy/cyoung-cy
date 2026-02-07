@@ -25,7 +25,14 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;">
-
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Status </h2>
+  <br>
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyoung-cy&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4994e4&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyoung-cy&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&cache_seconds=1800" />
+  </div>
+</div>
 
    
     
