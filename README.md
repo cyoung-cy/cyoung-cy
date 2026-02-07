@@ -24,11 +24,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-  ## 🏅 Status
-
-![Chaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoung-cy&show_icons=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyoung-cy&layout=compact&cache_seconds=1800)
 
 
    
