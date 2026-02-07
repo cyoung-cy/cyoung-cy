@@ -18,11 +18,19 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2> <br> 
     <div style="text-align: left;"> <a href=https://maple-text-29c.notion.site/23-Backend-Developer-22344307ff9280cd9bbee5cb1b8da3b0> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://maple-text-29c.notion.site/23-Backend-Developer-22344307ff9280cd9bbee5cb1b8da3b0"> </a>
          <a href=https://hellooworldd.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hellooworldd.tistory.com/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+    <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyoung-cy&custom_title=Github%20Stats&bg_color=ffffff&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyoung-cy&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" />
+  </div>
+</div>
+
    
     
